@@ -1,17 +1,27 @@
-# Welcome to MkDocs
+# Trang chủ
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+**Chào mừng đến với trang Tài liệu database của OPES**
 
-## Commands
+## Hướng dẫn cơ bản về truy vấn sử dụng SQL
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+[Sơ lược về SQL](./sql_basic/c1_sql_overview.md)
 
-## Project layout
+[Câu lệnh `SELECT`](./sql_basic/c2_select.md)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[Đặt điều kiện giới hạn dữ liệu với `WHERE`](./sql_basic/c3_where.md)
+
+Thêm giới hạn với `AND`, `OR` hoặc `NOT`
+
+Các hàm tổng hợp dữ liệu
+
+Ghép nối dữ liệu với `UNION`
+
+Sơ lược về liên kết các bảng với `JOIN`
+
+`INNER JOIN`, `LEFT JOIN` hay `RIGHT JOIN` ?
+
+Lọc dữ liệu tổng hợp cùng `HAVING`
+
+## Systems
+
+## 

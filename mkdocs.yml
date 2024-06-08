@@ -1,3 +1,14 @@
 site_name: Operation Docs
 theme:
   name: material
+  language: vi
+  favicon: assets/favicon.ico
+  logo: assets/brand.png
+  palette:
+    primary: teal
+    accent: amber
+  features:
+    - navigation.footer
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
