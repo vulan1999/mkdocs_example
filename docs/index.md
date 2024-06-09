@@ -2,7 +2,7 @@
 
 **Chào mừng đến với trang Tài liệu database của OPES**
 
-## Hướng dẫn cơ bản về truy vấn sử dụng SQL
+## **Hướng dẫn cơ bản về truy vấn sử dụng SQL**
 
 [Sơ lược về SQL](./sql_basic/c1_sql_overview.md)
 
@@ -10,7 +10,13 @@
 
 [Đặt điều kiện giới hạn dữ liệu với `WHERE`](./sql_basic/c3_where.md)
 
-Thêm giới hạn với `AND`, `OR` hoặc `NOT`
+[Các kiểu dữ liệu trong SQL](./sql_basic/c4_sql_data_types.md)
+
+[Thêm giới hạn với `AND`, `OR` hoặc `NOT`](./sql_basic/c5_and_or_not.md)
+
+Sử dụng `DISTINCT` để lấy danh sách giá trị
+
+Tạo Comment trong SQL
 
 Các hàm tổng hợp dữ liệu
 
@@ -22,6 +28,17 @@ Sơ lược về liên kết các bảng với `JOIN`
 
 Lọc dữ liệu tổng hợp cùng `HAVING`
 
-## Systems
+## **Datasets**
+### **Quản lý hợp đồng**
 
-## 
+### **Giải quyết quyền lợi bảo hiểm**
+
+### **Chăm sóc khách hàng**
+
+### **Phát triển sản phẩm**
+
+### **Kinh doanh**
+
+### **Định phí và phân tích dữ liệu**
+
+### **Hệ thống CORE**

@@ -1,9 +1,9 @@
-site_name: Operation Docs
+site_name: Tài liệu SQL và Dataset
 theme:
   name: material
   language: vi
-  favicon: assets/favicon.ico
-  logo: assets/brand.png
+  favicon: assets/site/favicon.ico
+  logo: assets/site/brand.png
   palette:
     primary: teal
     accent: amber
