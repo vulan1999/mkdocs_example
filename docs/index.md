@@ -12,9 +12,9 @@
 
 [Các kiểu dữ liệu trong SQL](./sql_basic/c4_sql_data_types.md)
 
-[Thêm giới hạn với `AND`, `OR` hoặc `NOT`](./sql_basic/c5_and_or_not.md)
+[Tiếp tục lọc dữ liệu với `AND`, `OR` hoặc `NOT`](./sql_basic/c5_and_or_not.md)
 
-Sử dụng `DISTINCT` để lấy danh sách giá trị
+[Sử dụng `DISTINCT` để lấy danh sách giá trị](./sql_basic/c6_distinct.md)
 
 Tạo Comment trong SQL
 
