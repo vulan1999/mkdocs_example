@@ -2,7 +2,7 @@
 
 ## **DISTINCT chính là filter trong Excel**
 
-Đến được đây, chắc nhiều người sẽ hỏi: nhìn dữ liệu lớn như này, làm sao biết được các giá trị có trong đó như nào ? Như trong filter của Excel, tôi còn nhìn được dữ liệu của tôi cần lọc là gồm sản phẩm như này:
+Đến được đây, chắc nhiều người sẽ hỏi 🤔: nhìn dữ liệu lớn như này, làm sao biết được các giá trị có trong đó như nào ? Như trong filter của Excel, tôi còn nhìn được dữ liệu của tôi cần lọc là gồm sản phẩm như này:
 
 ![File Excel mẫu](../assets/sql_basic/c6_distinct.png "File Excel mẫu")
 

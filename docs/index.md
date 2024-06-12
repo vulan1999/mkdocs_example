@@ -16,7 +16,9 @@
 
 [Sử dụng `DISTINCT` để lấy danh sách giá trị](./sql_basic/c6_distinct.md)
 
-Tạo Comment trong SQL
+[Lọc dữ liệu với `IN`](./sql_basic/c7_in.md)
+
+[Tạo Comment trong SQL](./sql_basic/c8_comment.md)
 
 Các hàm tổng hợp dữ liệu
 
