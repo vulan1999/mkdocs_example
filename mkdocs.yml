@@ -1,7 +1,6 @@
 site_name: Tài liệu SQL và Dataset
 theme:
   name: material
-  language: vi
   favicon: assets/site/favicon.ico
   logo: assets/site/brand.png
   palette:
@@ -9,6 +8,26 @@ theme:
     accent: amber
   features:
     - navigation.footer
+    - search.suggest
+    - search.highlight
+plugins:
+  - search
 markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
+nav:
+  - Trang chủ: index.md
+  - SQL cơ bản:
+    - Sơ lược về SQL: sql_basic/c1_sql_overview.md
+    - Câu lệnh SELECT: sql_basic/c2_select.md
+    - Đặt điều kiện giới hạn dữ liệu với WHERE: sql_basic/c3_where.md
+    - Các kiểu dữ liệu trong SQL: sql_basic/c4_sql_data_types.md
+    - Tiếp tục lọc dữ liệu với AND, OR hoặc NOT: sql_basic/c5_and_or_not.md
+    - Sử dụng DISTINCT để lấy danh sách giá trị: sql_basic/c6_distinct.md
+    - Lọc dữ liệu với IN: sql_basic/c7_in.md
+    - Tạo Comment trong SQL: sql_basic/c8_comment.md
+    - Các hàm tổng hợp dữ liệu: sql_basic/c9_aggregate.md
+    - Lọc dữ liệu tổng hợp cùng HAVING: sql_basic/c10_having.md
+  - Dataset:
+    - Quản lý hợp đồng:
+      - Dataset hợp đồng PA hệ thống CORE: datasets/policies/dataset_pa_core.md

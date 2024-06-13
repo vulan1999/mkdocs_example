@@ -20,15 +20,9 @@
 
 [Tạo Comment trong SQL](./sql_basic/c8_comment.md)
 
-Các hàm tổng hợp dữ liệu
+[Các hàm tổng hợp dữ liệu](./sql_basic/c9_aggregate.md)
 
-Ghép nối dữ liệu với `UNION`
-
-Sơ lược về liên kết các bảng với `JOIN`
-
-`INNER JOIN`, `LEFT JOIN` hay `RIGHT JOIN` ?
-
-Lọc dữ liệu tổng hợp cùng `HAVING`
+[Lọc dữ liệu tổng hợp cùng `HAVING`](./sql_basic/c10_having.md)
 
 ## **Datasets**
 ### **Quản lý hợp đồng**
