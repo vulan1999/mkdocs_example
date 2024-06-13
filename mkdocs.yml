@@ -28,6 +28,3 @@ nav:
     - Tạo Comment trong SQL: sql_basic/c8_comment.md
     - Các hàm tổng hợp dữ liệu: sql_basic/c9_aggregate.md
     - Lọc dữ liệu tổng hợp cùng HAVING: sql_basic/c10_having.md
-  - Dataset:
-    - Quản lý hợp đồng:
-      - Dataset hợp đồng PA hệ thống CORE: datasets/policies/dataset_pa_core.md
